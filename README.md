@@ -1,5 +1,4 @@
 # TSU C
-# TSU PHP
 ![TSU-d](https://user-images.githubusercontent.com/72521774/182470102-947d22bc-8dbf-4cee-85f7-58758b88f966.jpg)
 
 
